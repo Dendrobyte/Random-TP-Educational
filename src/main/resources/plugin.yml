@@ -1,0 +1,13 @@
+name: RandomTP
+author: Dendrobyte
+version: 1.0
+description: Educational plugin for a friend, why not
+api-version: 1.14
+main: com.dendrobyte.randomtp.Main
+commands:
+  randomtp:
+    description: Initiate the random tp command
+    aliases: [rtp]
+permissions:
+  randomtp.use:
+    description: Use the randomtp command
