@@ -30,7 +30,7 @@ public class Main extends JavaPlugin {
      * all files and only having to change one string.
      */
     private static Main instance;
-    private String prefix = "[RandomTP] ";
+    public String prefix = "[RandomTP] "; // This should be private with a public get method, but eh.
 
     /*
      * This is our onEnable method. When the server starts up, it runs through the
