@@ -18,6 +18,8 @@ If there are any comments missing or things that are unclear, let me know on Twi
 
 There are some blanks in this plugin! For example, it will teleport you to blocks 0,0 every time in its current state. You should modify these values and such to have fun with it. Change the command name. **Break things!** See what goes wrong, try to fix it. Hopefully you can find an article on how to build the plugin, like [the great beginner tutorial(s) on Spigot here.](https://www.spigotmc.org/wiki/spigot-plugin-development/)
 
+Check for TODO comments to see where it's your turn!
+
 ## License
 
-You are free to do whatever you'd like with this plugin, limited as it is.
+You are free to do whatever you'd like with this plugin, limited as it is. Creative Commons or whatever it's called, lol.
